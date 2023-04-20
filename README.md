@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello there, I am Ragesh! Great to see you here
+# Hello there, I am Pranav! Great to see you here
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=rageshx&label=Profile%20views&color=0e75b6&style=flat" alt="rageshx" /> </p>
 
 
-Hi there! My name is Ragesh and I am currently a college student studying computer science. In my free time, I enjoy coding and working on personal projects. I am always looking for new opportunities to learn and grow, so feel free to connect with me on GitHub.
+Hi there! My name is Pranav and I am currently a college student studying computer science. In my free time, I enjoy coding and working on personal projects. I am always looking for new opportunities to learn and grow, so feel free to connect with me on GitHub.
 
 
 <a href="https://github.com/rageshx/"><img src="https://visitor-badge.laobi.icu/badge?page_id=rageshx/rageshx.github.io" alt="Number of Visitors"></a>
