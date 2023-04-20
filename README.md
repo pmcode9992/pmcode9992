@@ -16,18 +16,18 @@ Here are some ideas to get you started:
 -->
 
 # Hello there, I am Pranav! Great to see you here
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=rageshx&label=Profile%20views&color=0e75b6&style=flat" alt="rageshx" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=pmcode9992&label=Profile%20views&color=0e75b6&style=flat" alt="pmcode9992" /> </p>
 
 
 Hi there! My name is Pranav and I am currently a college student studying computer science. In my free time, I enjoy coding and working on personal projects. I am always looking for new opportunities to learn and grow, so feel free to connect with me on GitHub.
 
 
-<a href="https://github.com/rageshx/"><img src="https://visitor-badge.laobi.icu/badge?page_id=rageshx/rageshx.github.io" alt="Number of Visitors"></a>
+<a href="https://github.com/pmcode9992/"><img src="https://visitor-badge.laobi.icu/badge?page_id=pmcode9992/pmcode9992.github.io" alt="Number of Visitors"></a>
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ezhillragesh)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ezhillragesh/)](https://www.linkedin.com/in/ezhillragesh/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pranavmurthy201)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pranavmurthy201/)](https://www.linkedin.com/in/pranavmurthy201/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/ragesh.x/)](https://instagram.com/ragesh.x)
-[![Linktree Badge](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/ezhillragesh)
+[![Linktree Badge](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/pranavmurthy)
 [![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14075313/ragesh)
 
 
@@ -36,8 +36,8 @@ Hi there! My name is Pranav and I am currently a college student studying comput
 
 ## Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/rag3shx/)
-[![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/rag3sh)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/pmcode9992/)
+[![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/pranav9992)
 
 # Languages
 
@@ -56,6 +56,6 @@ Hi there! My name is Pranav and I am currently a college student studying comput
 ## 📈 Stats
 
 <p align ="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ezhillragesh"/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezhillragesh&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=pmcode9992"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pmcode9992&theme=tokyonight" />
 </p>
