@@ -24,7 +24,7 @@ Hi there! My name is Pranav and I am currently a college student studying comput
 
 <a href="https://github.com/pmcode9992/"><img src="https://visitor-badge.laobi.icu/badge?page_id=pmcode9992/pmcode9992.github.io" alt="Number of Visitors"></a>
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pranavm201)
+//[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Pranavm201)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pranavmurthy201/)](https://www.linkedin.com/in/pranavmurthy201/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/pranavm59/)](https://instagram.com/pranavm59)
 [![Linktree Badge](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black)](https://linktr.ee/pranavmurthy)
