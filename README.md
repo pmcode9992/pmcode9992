@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pmcode9992/pmcode9992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
