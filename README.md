@@ -32,7 +32,7 @@ Hi there! My name is Pranav and I am currently a college student studying comput
 ## Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)]([https://leetcode.com/pmcode9992/](https://leetcode.com/u/user5886pG/))
-[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-green?style=for-the-badge&logo=GeeksForGeeks&logoColor=green)](https://www.geeksforgeeks.org/user/pmcode9992/)
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-green?style=for-the-badge&logo=GeeksForGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/pmcode9992/)
 
 # Languages
 
@@ -52,6 +52,6 @@ Hi there! My name is Pranav and I am currently a college student studying comput
 ## 📈 Stats
 
 <p align ="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pmcode9992"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pmcode9992"/><br />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pmcode9992&theme=tokyonight" />
 </p>
