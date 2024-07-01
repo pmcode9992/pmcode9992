@@ -31,8 +31,8 @@ Hi there! My name is Pranav and I am currently a college student studying comput
 
 ## Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/pmcode9992/)
-[![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)](https://www.codechef.com/users/pranav9992)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)]([https://leetcode.com/pmcode9992/](https://leetcode.com/u/user5886pG/))
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-green?style=for-the-badge&logo=GeeksForGeeks&logoColor=green)](https://www.geeksforgeeks.org/user/pmcode9992/))
 
 # Languages
 
