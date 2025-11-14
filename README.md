@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=pmcode9992&label=Profile%20views&color=0e75b6&style=flat" alt="pmcode9992" /> </p>
 
 
-Hi there! My name is Pranav and I am currently a college student studying computer science. I enjoy coding and working on personal projects. I am always looking for new opportunities to learn and grow, so feel free to connect with me on GitHub.
+Hi there! My name is Pranav and I am currently working as a Data Quality and Goveranance Engineer in Caterpillar Inc. I enjoy coding and working on personal projects. I am always looking for new opportunities to learn and grow, so feel free to connect with me on GitHub.
 
 
 <a href="https://github.com/pmcode9992/"><img src="https://visitor-badge.laobi.icu/badge?page_id=pmcode9992/pmcode9992.github.io" alt="Number of Visitors"></a>
