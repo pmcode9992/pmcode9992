@@ -32,7 +32,6 @@ Hi there! My name is Pranav and I am currently working as a Data Quality and Gov
 ## Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/pranavm59/)
-[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-green?style=for-the-badge&logo=GeeksForGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/pmcode9992/)
 
 # Languages
 
